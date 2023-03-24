@@ -1,0 +1,22 @@
+{
+  "name": "Karina",
+  "surname": "Korsakova",
+  "age": 34,
+  "address": {
+    "country": "UA",
+    "city": "Dnipro",
+    "zip": "49040"
+  },
+  "education": [
+    "SkillUp",
+    "QALab",
+    "Robotdreams"
+  ],
+  "married": true,
+  "children": null,
+  "work experience": false,
+  "languages": [
+    "Ukrainian",
+    "English"
+  ]
+}
