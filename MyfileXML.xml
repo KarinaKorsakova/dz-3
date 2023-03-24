@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <name>Karina</name>
+  <surname>Korsakova</surname>
+  <age>34</age>
+  <address>
+    <country>UA</country>
+    <city>Dnipro</city>
+    <zip>49040</zip>
+  </address>
+  <education>SkillUp</education>
+  <education>QALab</education>
+  <education>Robotdreams</education>
+  <married>true</married>
+  <children/>
+  <work experience>false</work experience>
+  <languages>Ukrainian</languages>
+  <languages>English</languages>
+</root>
+</xml>
